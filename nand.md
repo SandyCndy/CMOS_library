@@ -87,7 +87,7 @@ Feel free to connect for collaboration or questions!
 
 ## 📫 Contact
 
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* GitHub: [github.com/yourusername](https://github.com/yourusername)
+* Email: [sandeepkumar02855@gmail.com]
+* GitHub: [github.com/yourusername](https://github.com/SandyCndy)
 
 
