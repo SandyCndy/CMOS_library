@@ -87,7 +87,7 @@ Feel free to connect for collaboration or questions!
 
 ## 📫 Contact
 
-* Email: sandeepkumar02855@gmail.com
-* GitHub: https://github.com/SandyCndy
+* Email: [sandeepkumar02855@gmail.com] (sandeepkumar02855@gmail.com)
+* GitHub: [https://github.com/SandyCndy] (https://github.com/SandyCndy)
 
 
