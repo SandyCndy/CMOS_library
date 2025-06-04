@@ -103,19 +103,28 @@ Models used are BSIM3 Level 7.
 * Technology Node: 200nm (C5 CMOS)
 
 ---
+## 📜 License
 
-## 📫 Contact
-
-For questions, reach out to:
-
-**Sandeep Kumar**
-*B.Tech ECE | VLSI Design Enthusiast*
-Email: sandeepkumar02855@gmail.com
-GitHub: https://github.com/SandyCndy
+This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) for details.
 
 ---
 
-```
+## 🙋‍♂️ Author
+
+**Sandeep kumar**
+Electronics & Communication Engineer – VLSI Design Enthusiast
+Feel free to connect for collaboration or questions!
+
+---
+
+## 📫 Contact
+**Sandeep Kumar**
+*B.Tech ECE | VLSI Design Enthusiast*
+* Email: [sandeepkumar02855@gmail.com] (sandeepkumar02855@gmail.com)
+* GitHub: [https://github.com/SandyCndy] (https://github.com/SandyCndy)
+
+
+
 
 Let me know if you want this customized further with your name, specific tools used, or layout/simulation image filenames.
 ```
