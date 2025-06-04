@@ -110,15 +110,25 @@ The output node swings between VDD and GND depending on the input, ensuring low 
 
 ---
 
-## 👨‍💻 Author
+## 📜 License
 
-*Sandeep Kumar* – VLSI Enthusiast | ECE Student
+This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) for details.
 
+---
 
+## 🙋‍♂️ Author
 
-## 📄 License
+**Sandeep kumar**
+Electronics & Communication Engineer – VLSI Design Enthusiast
+Feel free to connect for collaboration or questions!
 
-This project is licensed under the MIT License – feel free to use or modify for academic and research purposes.
+---
+
+## 📫 Contact
+
+* Email: [sandeepkumar02855@gmail.com](sandeepkumar02855@gmail.com)
+* GitHub: [https://github.com/SandyCndy](https://github.com/SandyCndy)
+
 
 ---
 
